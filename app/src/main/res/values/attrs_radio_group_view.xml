@@ -1,0 +1,5 @@
+<resources>
+  <declare-styleable name="RadioGroupView">
+    <attr name="item_layout" format="reference"/>
+  </declare-styleable>
+</resources>
